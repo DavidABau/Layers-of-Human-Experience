@@ -73,3 +73,6 @@ Links to these repositories are provided in the HACC index.
 This repository is intentionally non-exhaustive and may evolve.  
 Its purpose is to clarify distinctions, not to close questions.
 
+---
+
+[Start Here](https://github.com/DavidABau/Layers-of-Human-Experience/blob/main/00-orientation/orientation-note.md)
